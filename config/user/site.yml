@@ -39,7 +39,7 @@ security:
 #   - dark/light：首屏默认主题；用户点击按钮切换后会写入 localStorage 并覆盖该默认值
 #   - system：跟随系统 prefers-color-scheme；用户手动切换后同样会写入 localStorage 并停止跟随
 theme:
-  mode: dark # 可选: dark | light | system（默认 dark）
+  mode: light # 可选: dark | light | system（默认 dark）
 
 # 字体设置：全站基础字体
 # - source: css | google | system
